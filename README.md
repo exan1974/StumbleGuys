@@ -1,4 +1,4 @@
 # StumbleGuys
 
-https://play.unity.com/p/webgl-builds-287185/edit
+https://play.unity.com/p/webgl-builds-287185
  
